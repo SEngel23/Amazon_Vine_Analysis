@@ -19,26 +19,32 @@ After the ETL process has been performed on the original gaming dataset, PySpark
 #### Total Reviews
 
 - Total Vine Reviews (Paid)
-  ![total_paid_reviews.png](Images/total_paid_reviews.png)
+
+![total_paid_reviews.png](Images/total_paid_reviews.png)
 
 - Total Non-Vine Reviews (Unpaid)
-  ![total_unpaid_reviews.png](Images/total_unpaid_reviews.png)
+
+![total_unpaid_reviews.png](Images/total_unpaid_reviews.png)
 
 #### Total 5 Star Reviews
 
 - Total Vine 5 Star Reviews (Paid)
-  ![paid_five_star_reviews.png](Images/paid_five_star_reviews.png)
+
+![paid_five_star_reviews.png](Images/paid_five_star_reviews.png)
 
 - Total Non-Vine 5 Star Reviews unpaid)
-  ![unpaid_five_star_reviews.png](Images/unpaid_five_star_reviews.png)
+
+![unpaid_five_star_reviews.png](Images/unpaid_five_star_reviews.png)
 
 #### Percentage of 5 Star Reviews
 
 - Percent of 5 star reviews Vine (Paid)
-  ![percent_five_star_paid.png](Images/percent_five_star_paid.png)
+
+![percent_five_star_paid.png](Images/percent_five_star_paid.png)
 
 - Percent of 5 star reviewsd Non-Vine (Unpaid)
-  ![percent_five_star_unpaid.png](Images/percent_five_star_unpaid.png)
+
+![percent_five_star_unpaid.png](Images/percent_five_star_unpaid.png)
 
 ---
 
